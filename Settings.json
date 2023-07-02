@@ -1,0 +1,5 @@
+{
+    "HEADERS": ["type"],
+    "PAGES_LIMIT": 20,
+    "TAGS_LIMIT": 4
+}
